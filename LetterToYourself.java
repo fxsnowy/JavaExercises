@@ -9,8 +9,8 @@ public class LetterToYourself
 		System.out.println("|                                         |");
 		System.out.println("|                                         |");
 		System.out.println("|                        Yannick Daly     |");
-		System.out.println("|                        10761 SW 138 St  |");
-		System.out.println("|                        Miami, FL 33176  |");
+		System.out.println("|                        22 Electric St   |");
+		System.out.println("|                        ADCD Town, USA   |");
 		System.out.println("+-----------------------------------------+");
 		
 	}
