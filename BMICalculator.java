@@ -6,7 +6,7 @@ public class BMICalculator
 {
 	public static void main(String[] args)
 	{
-		Scanner keyboard = new Scanner(System.in);
+		Scanner keyboard = new Scanner(System.in); //Reads input from the console
 		double lb, in, ft, m, kg, bmi;
 		//The program will take input in feet and pounds.
 
